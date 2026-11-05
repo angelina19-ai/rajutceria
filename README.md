@@ -1,7 +1,7 @@
 # Website Rajut Ceria
 
-**Nama:** Marvin Ricardo Berlin  
-**NIM:** 240103023  
+**Nama:** Angelina 
+**NIM:** 240103002
 **Nama UMKM:** Rajut Ceria  
 
 Website ini dibuat untuk tugas Ujian Web Desain. Rajut Ceria adalah contoh UMKM yang menjual kerajinan rajutan tangan.
