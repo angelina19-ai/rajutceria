@@ -1,25 +1,16 @@
-# Website Rajut Ceria
+Website Rajut Ceria
+NAMA: ANGELINA
+NIM: 240103002
+NAMA UMKM: RAJUT CERIA
 
-**Nama:** Angelina 
-**NIM:** 240103002
-**Nama UMKM:** Rajut Ceria  
+Halaman
+- index.html: Beranda
+- about.html: Tentang Kami
+- produk.html: Produk
+- kontak.html: Kontak
+- css/style.css: Pengaturan tampilan dan submenu
+- js/script.js: Tombol menu dan submenu Produk
 
-Website ini dibuat untuk tugas Ujian Web Desain. Rajut Ceria adalah contoh UMKM yang menjual kerajinan rajutan tangan.
+- img/: menyimpan foto produk tas rajut, bunga rajut, dan gantungan kunci.
 
-## Cara menjalankan
-1. Ekstrak file ZIP.
-2. Buka folder project.
-3. Klik dua kali file `index.html`.
-4. Website akan terbuka di browser.
-
-## Isi folder
-- `index.html` : halaman beranda
-- `about.html` : halaman tentang kami
-- `produk.html` : halaman produk
-- `kontak.html` : halaman kontak
-- `css/style.css` : pengaturan tampilan
-- `js/script.js` : fungsi menu hamburger
-
-## Link website
-Isi bagian ini setelah website di-upload ke GitHub Pages:  
-Belum di-deploy.
+link website: webrajutangelina240103002.vercel.app
